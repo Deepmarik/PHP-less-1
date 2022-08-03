@@ -1,5 +1,6 @@
 <?php
 //Lesson 1
+
 //Задание 2
 
 $name = readline("Привет, как тебя зовут?\n");
@@ -19,3 +20,5 @@ echo "$name1, у тебя сегодня три задачи, а именно:\n
 echo "$name1, это займет у тебя $sum ч\n ";
 error_reporting(E_ALL);
 ini_set('display_errors', 'on');
+
+//задание простое
